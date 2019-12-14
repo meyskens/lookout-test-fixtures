@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v28/github"
 	fixtures "github.com/src-d/lookout-test-fixtures"
 )
 
